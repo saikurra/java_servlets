@@ -9,7 +9,7 @@
 <body>
 	<div>
 	<h4>Demo Form Inputs Example</h4>
-		<form action="employees/" method="POST">
+		<form method="POST">
 			Text: <input name="emp_name" type="text" placeholder="Enter your username"/>
 			<br>
 			Number:<input name="emp_id" type="number" placeholder="Enter your employee ID"/>
