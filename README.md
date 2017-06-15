@@ -7,7 +7,7 @@ This repository has a set of java servlets basic examples.
 - Tomcat 7 or above
 - Eclipse Neon for Java EE Developers or after
 
-## How to create these projects
+## How to run these projects
 - Create Dynamic Web Project in Eclipse. New --> Dynamic Web Project
 - Copy the code from above examples into your project and maintain same folder and file structures.
 - Run as --> Run on Server
