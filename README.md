@@ -10,6 +10,8 @@ This repository has a set of java servlets basic examples.
 ## How to create these projects
 - Create Dynamic Web Project in Eclipse. New --> Dynamic Web Project
 - Copy the code from above examples into your project and maintain same folder and file structures.
+- Run as --> Run on Server
+- Test --> http://localhost:8080/[context-path] , context-path by default is the project name
 
 
 
